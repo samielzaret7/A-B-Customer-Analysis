@@ -1,7 +1,8 @@
 # Vanguard_Customer_Analysis
 Project status(Completed)
 
-[TABLEAU PRESENTATION](https://public.tableau.com/app/profile/natalie.lewis/viz/Client_ExperimentV4/Vanguard?publish=yes)
+[TABLEAU PRESENTATION](https://public.tableau.com/views/DataAnalysisReportVanguardUIRedesignExperiment/Vanguard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 Please Enjoy! :)
 
 # Project objective
